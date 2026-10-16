@@ -1,4 +1,4 @@
-//META{"name":"forceClose"}*//
+//META{"name":"forceClose"}*// 
 
 var forceClose = (function(){
   var listener, _remote;
